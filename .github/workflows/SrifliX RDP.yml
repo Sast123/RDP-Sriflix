@@ -1,4 +1,4 @@
-name: Windows-RDP
+name: Srifli.ML
 
 on: workflow_dispatch
 
